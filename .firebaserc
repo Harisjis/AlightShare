@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "alight-ebd82"
+  },
+  "targets": {
+    "alight-ebd82": {
+      "hosting": {
+        "alightshare": [
+          "alightshare"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
